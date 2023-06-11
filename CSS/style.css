@@ -7,7 +7,7 @@
 body {
   height: 100vh;
   background-color: black;
-  background-image: url("/images/moonBG.jpg");
+  background-image: url("image/moon.jpg");
   background-size: cover;
   background-position: center;
 }
